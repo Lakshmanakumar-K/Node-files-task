@@ -1,0 +1,15 @@
+{
+  "name": "node_file_task",
+  "version": "1.0.0",
+  "description": "File creation and retrieval",
+  "type": "module",
+  "main": "express-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
